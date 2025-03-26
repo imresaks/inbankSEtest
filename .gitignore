@@ -1,0 +1,81 @@
+intern-decision-engine-backend/.gradle
+intern-decision-engine-backend/build/
+!intern-decision-engine-backend/gradle/wrapper/gradle-wrapper.jar
+!intern-decision-engine-backend/**/src/main/**/build/
+!intern-decision-engine-backend/**/src/test/**/build/
+
+### STS ###
+intern-decision-engine-backend/.apt_generated
+intern-decision-engine-backend/.classpath
+intern-decision-engine-backend/.factorypath
+intern-decision-engine-backend/.project
+intern-decision-engine-backend/.settings
+intern-decision-engine-backend/.springBeans
+intern-decision-engine-backend/.sts4-cache
+intern-decision-engine-backend/bin/
+!intern-decision-engine-backend/**/src/main/**/bin/
+!intern-decision-engine-backend/**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+intern-decision-engine-backend/.idea
+intern-decision-engine-backend/*.iws
+intern-decision-engine-backend/*.iml
+intern-decision-engine-backend/*.ipr
+intern-decision-engine-backend/out/
+!intern-decision-engine-backend/**/src/main/**/out/
+!intern-decision-engine-backend/**/src/test/**/out/
+
+### NetBeans ###
+intern-decision-engine-backend/nbproject/private/
+intern-decision-engine-backend/nbbuild/
+intern-decision-engine-backend/dist/
+intern-decision-engine-backend/nbdist/
+intern-decision-engine-backend/.nb-gradle/
+
+### VS Code ###
+intern-decision-engine-backend/.vscode/
+
+# Miscellaneous
+intern-decision-engine-frontend/*.class
+intern-decision-engine-frontend/*.log
+intern-decision-engine-frontend/*.pyc
+intern-decision-engine-frontend/*.swp
+intern-decision-engine-frontend/.DS_Store
+intern-decision-engine-frontend/.atom/
+intern-decision-engine-frontend/.buildlog/
+intern-decision-engine-frontend/.history
+intern-decision-engine-frontend/.svn/
+intern-decision-engine-frontend/migrate_working_dir/
+
+# IntelliJ related
+intern-decision-engine-frontend/*.iml
+intern-decision-engine-frontend/*.ipr
+intern-decision-engine-frontend/*.iws
+intern-decision-engine-frontend/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+intern-decision-engine-frontend/**/doc/api/
+intern-decision-engine-frontend/**/ios/Flutter/.last_build_id
+intern-decision-engine-frontend/.dart_tool/
+intern-decision-engine-frontend/.flutter-plugins
+intern-decision-engine-frontend/.flutter-plugins-dependencies
+intern-decision-engine-frontend/.packages
+intern-decision-engine-frontend/.pub-cache/
+intern-decision-engine-frontend/.pub/
+intern-decision-engine-frontend/build/
+
+# Symbolication related
+intern-decision-engine-frontend/app.*.symbols
+
+# Obfuscation related
+intern-decision-engine-frontend/app.*.map.json
+
+# Android Studio will place build artifacts here
+intern-decision-engine-frontend/android/app/debug
+intern-decision-engine-frontend/android/app/profile
+intern-decision-engine-frontend/android/app/release
